@@ -23,7 +23,7 @@
 ---
 
 ###  Descripción general del proyecto 
-Se trata de pryoecto mediante el cual, presentaremos nuestras habilidades para planear y deiseñar estrategicamente la distribución y administración de un resort.
+Se trata de un proyecto mediante el cual, presentaremos nuestras habilidades para planear y diseñar estrategicamente la distribución y administración de un resort.
 Aquí, adjuntamos imagenes e información que permite tener una idea de como será nuestro resort.
 
 ---
@@ -31,18 +31,18 @@ Aquí, adjuntamos imagenes e información que permite tener una idea de como ser
 ###  Equipo desarrollador 
 
   *Integrantes*
-- Maylin Vnessa Martínez Arrieta
+- Maylin Vanessa Martínez Arrieta
 - Vanesa Lucía Bernal Ruiz
 
 Ambas pertenecemos al programa de *Ingeniería Industrial*.  
 
 ###  Habilidades y fortalezas
 - Maylin Vanessa Martinez Arrieta: buen manejo de finanzas y administración. 
-- Vanesa Lucía Bernal Ruiz: conocimiento de progrmación.
+- Vanesa Lucía Bernal Ruiz: conocimiento de programación.
   
 ### Responsabilidades
 - Maylin Vanessa Martinez Arrieta: encargada de diseñar el layout, logo  organizar la información en GitHub.
-- Vanessa Lucía Bernal Ruiz: encargada de crear el pesseudocodigo e identificar las estructuras de datos.
+- Vanessa Lucía Bernal Ruiz: encargada de crear el pseudocodigo e identificar las estructuras de datos.
    
 ### Líder
 Vanesa Lucía Bernal Ruiz.
